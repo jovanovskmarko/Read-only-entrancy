@@ -2,8 +2,8 @@
 
 This project demonstrates a basic read-only reentrancy attack. It comes with a sample contract and a test for that contract.
 
-To fork the mainnet use this command:
+1. Fork the mainnet:
 
-```shell
+```
 npx hardhat node
 ```
